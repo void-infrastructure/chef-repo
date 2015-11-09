@@ -1,0 +1,12 @@
+{
+    "name": "repo",
+    "description": "This is the environment repos live in",
+    "chef_type": "environment",
+    "json_class": "Chef::Environment",
+    "default_attributes": {
+    },
+    "override_attributes": {
+    },
+    "cookbook_versions": {
+    }
+}
