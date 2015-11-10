@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'chef', '~> 12.00'
+gem 'berkshelf', '~> 4.0'
+gem 'knife-digital_ocean'
+gem 'knife-dwim'
+gem 'knife-backup'
+gem 'knife-cleanup'
+gem 'knife-pkg'
+gem 'chef-vault', '~> 2.6'
+gem 'foodcritic', '~> 5.0'
